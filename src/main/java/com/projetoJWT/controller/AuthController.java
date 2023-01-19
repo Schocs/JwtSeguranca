@@ -12,7 +12,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Classe de controle para endpoints que não necessitam de autenticação
+ * Classe de controle para endpoints que não necessitam de autenticação.
+ * Cadastro de usuário: /api/v1/auth/register
+ * Login: /api/v1/auth/authenticate
  * @author João Chocron
  */
 @RestController
