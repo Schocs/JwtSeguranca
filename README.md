@@ -1,5 +1,5 @@
 # Segurança em Spring Boot 3.0.1 com JWT
-Este é um projeto básico de segurança em uma aplicação Spring Boot. Em projetos futuros, detalharei e especificarei alguns pormenores.
+Este é um projeto básico de segurança em uma aplicação Spring Boot. Em projetos futuros, detalharei e especificarei alguns pormenores. Utilizei JavaDoc para facilitar a documentação do projeto. 
 <h1>Features</h1>
 <li>Cadastro e autenticação de usuários</li>
 <li>Criptografia de senhas com Bcrypt</li>
